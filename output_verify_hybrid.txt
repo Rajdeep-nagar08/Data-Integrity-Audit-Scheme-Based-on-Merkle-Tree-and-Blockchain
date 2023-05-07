@@ -1,0 +1,47 @@
+Transactions verified successfully !!!
+
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Invalid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Invalid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Time taken to Verify transactions in Hybrid Tree: 2968 milliseconds

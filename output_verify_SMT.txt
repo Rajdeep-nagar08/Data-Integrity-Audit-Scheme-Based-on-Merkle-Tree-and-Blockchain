@@ -1,0 +1,23 @@
+Transactions verified successfully !!!
+
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Invalid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Valid Transaction !!!
+Invalid Transaction !!!
+Time taken to Verify transactions in SMT: 4971 milliseconds
